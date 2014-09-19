@@ -1,0 +1,25 @@
+E:\SQLExport\SQLExport\bin\x86\Release\SQLExport.exe.config
+E:\SQLExport\SQLExport\bin\x86\Release\SQLExport.exe
+E:\SQLExport\SQLExport\bin\x86\Release\SQLExport.pdb
+E:\SQLExport\SQLExport\obj\x86\Release\SQLExport.csprojResolveAssemblyReference.cache
+E:\SQLExport\SQLExport\obj\x86\Release\SQLExport.Form1.resources
+E:\SQLExport\SQLExport\obj\x86\Release\SQLExport.Properties.Resources.resources
+E:\SQLExport\SQLExport\obj\x86\Release\SQLExport.csproj.GenerateResource.Cache
+E:\SQLExport\SQLExport\obj\x86\Release\SQLExport.exe
+E:\SQLExport\SQLExport\obj\x86\Release\SQLExport.pdb
+C:\Users\fabio.leardini\Desktop\SQLExport\SQLExport\bin\x86\Release\SQLExport.exe.config
+C:\Users\fabio.leardini\Desktop\SQLExport\SQLExport\obj\x86\Release\SQLExport.exe
+C:\Users\fabio.leardini\Desktop\SQLExport\SQLExport\obj\x86\Release\SQLExport.pdb
+C:\Users\fabio.leardini\Desktop\SQLExport\SQLExport\bin\x86\Release\SQLExport.exe
+C:\Users\fabio.leardini\Desktop\SQLExport\SQLExport\bin\x86\Release\SQLExport.pdb
+C:\Users\fabio.leardini\Desktop\SQLExport\SQLExport\obj\x86\Release\SQLExport.Form1.resources
+C:\Users\fabio.leardini\Desktop\SQLExport\SQLExport\obj\x86\Release\SQLExport.Properties.Resources.resources
+C:\Users\fabio.leardini\Desktop\SQLExport\SQLExport\obj\x86\Release\SQLExport.csproj.GenerateResource.Cache
+C:\Users\fabio.leardini\Desktop\SQLExport\SQLExport\obj\x86\Release\SQLExport.Senha.resources
+C:\Users\fabio.leardini\Desktop\SQLExport\SQLExport\obj\x86\Release\SQLExport.csprojResolveAssemblyReference.cache
+C:\Users\fabio.leardini\Desktop\Projects\SQLExport 2\SQLExport\bin\x86\Release\SQLExport.exe.config
+C:\Users\fabio.leardini\Desktop\Projects\SQLExport 2\SQLExport\obj\x86\Release\SQLExport.exe
+C:\Users\fabio.leardini\Desktop\Projects\SQLExport 2\SQLExport\obj\x86\Release\SQLExport.pdb
+F:\SML\Projects\SQLExport 2\SQLExport\bin\x86\Release\SQLExport.exe.config
+F:\SML\Projects\SQLExport 2\SQLExport\obj\x86\Release\SQLExport.exe
+F:\SML\Projects\SQLExport 2\SQLExport\obj\x86\Release\SQLExport.pdb

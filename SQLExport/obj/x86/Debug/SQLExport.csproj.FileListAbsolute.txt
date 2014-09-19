@@ -1,0 +1,9 @@
+E:\SQLExport\SQLExport\bin\x86\Debug\SQLExport.exe.config
+E:\SQLExport\SQLExport\bin\x86\Debug\SQLExport.exe
+E:\SQLExport\SQLExport\bin\x86\Debug\SQLExport.pdb
+E:\SQLExport\SQLExport\obj\x86\Debug\SQLExport.Form1.resources
+E:\SQLExport\SQLExport\obj\x86\Debug\SQLExport.Properties.Resources.resources
+E:\SQLExport\SQLExport\obj\x86\Debug\SQLExport.csproj.GenerateResource.Cache
+E:\SQLExport\SQLExport\obj\x86\Debug\SQLExport.exe
+E:\SQLExport\SQLExport\obj\x86\Debug\SQLExport.pdb
+E:\SQLExport\SQLExport\obj\x86\Debug\SQLExport.csprojResolveAssemblyReference.cache

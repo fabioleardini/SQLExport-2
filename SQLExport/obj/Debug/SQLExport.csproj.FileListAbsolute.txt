@@ -1,0 +1,26 @@
+c:\users\fabio\documents\visual studio 2012\Projects\SQLExport\SQLExport\bin\Debug\SQLExport.exe.config
+C:\Users\Fabio\documents\visual studio 2012\Projects\SQLExport\SQLExport\bin\Debug\SQLExport.exe
+C:\Users\Fabio\documents\visual studio 2012\Projects\SQLExport\SQLExport\bin\Debug\SQLExport.pdb
+C:\Users\Fabio\documents\visual studio 2012\Projects\SQLExport\SQLExport\obj\Debug\SQLExport.csprojResolveAssemblyReference.cache
+C:\Users\Fabio\documents\visual studio 2012\Projects\SQLExport\SQLExport\obj\Debug\SQLExport.Form1.resources
+C:\Users\Fabio\documents\visual studio 2012\Projects\SQLExport\SQLExport\obj\Debug\SQLExport.Properties.Resources.resources
+C:\Users\Fabio\documents\visual studio 2012\Projects\SQLExport\SQLExport\obj\Debug\SQLExport.csproj.GenerateResource.Cache
+C:\Users\Fabio\documents\visual studio 2012\Projects\SQLExport\SQLExport\obj\Debug\SQLExport.exe
+C:\Users\Fabio\documents\visual studio 2012\Projects\SQLExport\SQLExport\obj\Debug\SQLExport.pdb
+E:\SQLExport\SQLExport\bin\Debug\SQLExport.exe.config
+E:\SQLExport\SQLExport\obj\Debug\SQLExport.exe
+E:\SQLExport\SQLExport\obj\Debug\SQLExport.pdb
+E:\SQLExport\SQLExport\bin\Debug\SQLExport.exe
+E:\SQLExport\SQLExport\bin\Debug\SQLExport.pdb
+E:\SQLExport\SQLExport\obj\Debug\SQLExport.Form1.resources
+E:\SQLExport\SQLExport\obj\Debug\SQLExport.Properties.Resources.resources
+E:\SQLExport\SQLExport\obj\Debug\SQLExport.csproj.GenerateResource.Cache
+G:\SQLExport\SQLExport\bin\Debug\SQLExport.exe.config
+G:\SQLExport\SQLExport\obj\Debug\SQLExport.exe
+G:\SQLExport\SQLExport\obj\Debug\SQLExport.pdb
+G:\SQLExport\SQLExport\bin\Debug\SQLExport.exe
+G:\SQLExport\SQLExport\bin\Debug\SQLExport.pdb
+G:\SQLExport\SQLExport\obj\Debug\SQLExport.csprojResolveAssemblyReference.cache
+G:\SQLExport\SQLExport\obj\Debug\SQLExport.Form1.resources
+G:\SQLExport\SQLExport\obj\Debug\SQLExport.Properties.Resources.resources
+G:\SQLExport\SQLExport\obj\Debug\SQLExport.csproj.GenerateResource.Cache

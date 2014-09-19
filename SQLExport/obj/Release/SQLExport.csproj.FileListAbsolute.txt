@@ -1,0 +1,8 @@
+E:\SQLExport\SQLExport\bin\Release\SQLExport.exe.config
+E:\SQLExport\SQLExport\bin\Release\SQLExport.exe
+E:\SQLExport\SQLExport\bin\Release\SQLExport.pdb
+E:\SQLExport\SQLExport\obj\Release\SQLExport.Form1.resources
+E:\SQLExport\SQLExport\obj\Release\SQLExport.Properties.Resources.resources
+E:\SQLExport\SQLExport\obj\Release\SQLExport.csproj.GenerateResource.Cache
+E:\SQLExport\SQLExport\obj\Release\SQLExport.exe
+E:\SQLExport\SQLExport\obj\Release\SQLExport.pdb
